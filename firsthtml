@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Freelance web</title>
+</head>
+<body>
+
+  <header>
+    <h1>Jean Claude Quicaño Freelancer</h1>
+  </header>
+  <nav>
+    <a href="#">Inicio</a>
+    <a href="#">Inicio</a>
+    <a href="#">Inicio</a>
+    <a href="#">Inicio</a>
+    <a href="#">Inicio</a>
+  </nav>
+
+    <section>
+      <h2>Diseño Desarrollo Web</h2>
+        <!-- Este es el icono de "locacion" obtenido como link de  la pagina. tabler icons -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-map-pin-check" width="44"
+            height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#009988" fill="none" stroke-linecap="round"
+            stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path d="M9 11a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" />
+            <path d="M11.87 21.48a1.992 1.992 0 0 1 -1.283 -.58l-4.244 -4.243a8 8 0 1 1 13.355 -3.474" />
+            <path d="M15 19l2 2l4 -4" />
+        </svg>
+      <p>Lima, Peru</p>
+      <a href="#">Contacto</a>
+    </section>
+<main>
+
+<h2>Mis Servicios:</h2>
+
+<section>
+
+<h3>Diseño Web</h3>
+<p>Hola Comom Estas,  yo muy bien y tu?</p>
+
+</section>
+
+<section>
+  <h3>English Teacher</h3>
+<p>Hola Comom Estas,  yo muy bien y tu?</p>
+</section>
+
+<section>
+  <h3>Diseño Web</h3>
+<p>Hola Comom Estas,  yo muy bien y tu?</p>
+</section>
+
+<section>
+<p>Contacto</h2>
+<form>
+<fieldset> 
+<legend> Por favor, llenar esta informacion: </legend>
+<div>
+<label>Ingresa tu nombre</label>
+<input type="text" placeholder:"Nombre">
+</div>
+<div>
+<label>Ingresa tu numero</label>
+<input type="text" placeholder: "tu numero"
+</div>
+
+<label>Ingresa tu correo</label>
+<input type="text" placeholder:"Correo">
+
+<div>
+<label>Mnesaje</label>
+<textarea placeholder:"escribe en clase" ></textarea>
+</div>
+
+<div>
+<input type="submit"></div>
+
+</fieldset>
+
+</section>
+
+</main>
+
+</body>
